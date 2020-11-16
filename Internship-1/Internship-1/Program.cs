@@ -8,6 +8,7 @@ namespace Internship_1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Text for first commit!");
+            Console.WriteLine("Text from pull request :)");
         }
     }
 }
